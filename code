@@ -1,11 +1,7 @@
 //# 16_bit_cla
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    21:08:58 06/13/2023 
-// Design Name: 
+/////// 
+// Design Name: Mahipal Tarar
 // Module Name:    cla_2 
 // Project Name: 
 // Target Devices: 
